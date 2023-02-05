@@ -20,7 +20,7 @@ constraints:
     to use.
     
 ## Acess the project
-### ***[Project](https://github.com/Douglas10009/app-ideas/tree/master/Projects/1-Beginner/Binary2Decimal)***
+### ***[Project](https://github.com/Douglas10009/Basics-Tools-Website/tree/main/Binary2Decimal)***
 
 ## User Stories
 
